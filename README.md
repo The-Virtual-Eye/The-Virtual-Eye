@@ -8,8 +8,8 @@ The virtual eye is a multidisciplinary initiative to develop a simulation of the
 The collaborators span a range of disciplines, including but not limited to, ophthalmology, cellular biology, mathematics, engineering. The initiative is supported by researchers and Investigators from the UK, USA and Europe.
  
 The Virtual Eye has received funding from a range of sources for which we are immensely grateful:
-BBSRC
-Bayer
-Macular Society 
-Roche
+- BBSRC
+- Bayer
+- Macular Society 
+- Roche
  
