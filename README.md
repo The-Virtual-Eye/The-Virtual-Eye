@@ -4,7 +4,11 @@ The virtual eye is a multidisciplinary initiative to develop a simulation of the
 1. To enhance our understanding of the eye
 2. Provide an environment to screen potential treatments for eye disease 
 3. Enable personalised treatment regimes utilising digital twin approaches 
- 
+
+This paper sets out the framework for the development of The Virtual Eye:
+https://www.sciencedirect.com/science/article/pii/S1350946226000959 The Virtual Eye: An integrative multiscale framework for mechanistic modelling of ocular physiology and disease
+
+
 The collaborators span a range of disciplines, including but not limited to, ophthalmology, cellular biology, mathematics, and engineering. The initiative is supported by researchers and Investigators from the UK, USA and Europe.
  
 The Virtual Eye has received funding from a range of sources for which we are immensely grateful:
